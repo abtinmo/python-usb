@@ -7,8 +7,8 @@ from shutil import copy2
 
 while (True):
 	if (cos()== "Linux"):
-		if exists("/run/media/abtin"): #for ubuntu --> /media/abtin
-			for root ,dirs , files in os.walk("/run/media/abtin"):
+		if exists("/run/media/user"): #for ubuntu --> /media/user
+			for root ,dirs , files in os.walk("/run/media/user"):
 				for name in files :
 					if name.endswith((".pdf",".docx")):
 						print(name)
