@@ -1,2 +1,4 @@
 # python-usb
-simple script for transfer files from USB
+Hi 
+
+simple python script for transfer files from USB . 
