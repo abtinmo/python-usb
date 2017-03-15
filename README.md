@@ -16,7 +16,7 @@ note *
   
   you can change the fileformats by editing  line 16 in python-usb.py ,by default is pdf and docx
   
-  for runing script in backgraound ,type in terimnal or cmd 
+  for running script in background ,type in terimnal or cmd 
   
   windows --> pythonw python-usb.py   
   
