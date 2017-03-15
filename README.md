@@ -8,13 +8,14 @@ simple python3 script for transfer files from USB or directory to directory.
 2-run python-usb.py for copying the file :) 
 
 note *
+
   src is the source address
   
   dst is the destination address
   
   In Windows,type address with two(\\) like --> c:\\Users\\User\\Downloads 
   
-  you can change the fileformats by editing  line 16 in python-usb.py ,by default is pdf and docx
+  you can change the fileformats by editing  line 16 in python-usb.py ,by default is .pdf and .docx
   
   for running script in background ,type in terimnal or cmd 
   
